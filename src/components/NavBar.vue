@@ -9,8 +9,9 @@
   >
     <div class="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between">
       <!-- Logo -->
-      <a href="#" class="text-[15px] font-semibold tracking-tight text-gray-900 dark:text-white hover:opacity-70 transition-opacity">
-        MS<span class="text-blue-500">.</span>
+      <a href="#" class="flex items-center gap-2 text-[15px] font-semibold tracking-tight text-gray-900 dark:text-white hover:opacity-70 transition-opacity">
+        <span>MS<span class="text-blue-500">.</span></span>
+        <span class="hidden sm:inline text-[13px] font-medium text-gray-500 dark:text-gray-400">Matias Scacciante</span>
       </a>
 
       <!-- Desktop Nav -->

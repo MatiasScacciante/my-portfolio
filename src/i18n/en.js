@@ -16,7 +16,7 @@ export default {
     subheadline: 'Semi-Senior Full-Stack Developer with 3+ years building enterprise software for banking, logistics & education. Based in Argentina — open to remote roles worldwide.',
     cta_primary: "Let's Work Together",
     cta_secondary: 'View My Work',
-    scroll: 'Scroll to explore',
+    scroll: '',
   },
 
   about: {

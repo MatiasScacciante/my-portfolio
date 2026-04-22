@@ -20,6 +20,10 @@
             {{ t('hero.available') }}
           </div>
 
+          <p class="text-[13px] font-semibold tracking-[0.28em] uppercase text-gray-400 dark:text-gray-500 mb-5 animate-fade-up" style="animation-delay: 0.05s; opacity: 0;">
+            Matias Scacciante
+          </p>
+
           <!-- Headline -->
           <h1 class="text-5xl sm:text-6xl md:text-7xl font-bold tracking-tight text-gray-900 dark:text-white mb-6 leading-[1.05]">
             <span class="block animate-fade-up" style="animation-delay: 0.1s; opacity: 0;">
@@ -69,7 +73,7 @@
           </div>
         </div>
 
-        <div class="relative flex justify-center lg:justify-end animate-fade-up" style="animation-delay: 0.35s; opacity: 0;">
+        <div class="relative flex justify-center pb-10 lg:justify-end lg:pb-0 animate-fade-up" style="animation-delay: 0.35s; opacity: 0;">
           <div class="absolute inset-x-10 top-10 bottom-6 rounded-[2rem] bg-gradient-to-br from-blue-500/15 via-cyan-500/10 to-transparent blur-3xl"></div>
           <div class="relative w-full max-w-sm rounded-[2rem] border border-gray-200/80 dark:border-white/10 bg-white/80 dark:bg-white/[0.03] p-3 shadow-[0_30px_90px_-40px_rgba(59,130,246,0.45)] backdrop-blur">
             <div class="relative overflow-hidden rounded-[1.6rem] bg-gradient-to-br from-slate-100 via-slate-200 to-slate-300 dark:from-slate-900 dark:via-slate-800 dark:to-slate-900">
@@ -78,10 +82,10 @@
                 alt="Portrait of Matias"
                 class="h-[500px] sm:h-[580px] w-full object-cover object-center"
               />
-              <div class="absolute inset-x-0 bottom-0 h-40 bg-gradient-to-t from-slate-950/20 via-slate-950/5 to-transparent"></div>
+              <div class="absolute inset-x-0 bottom-0 h-90 bg-gradient-to-t from-slate-950/20 via-slate-950/5 to-transparent"></div>
             </div>
-            <div class="absolute -bottom-5 left-1/2 -translate-x-1/2 rounded-full border border-white/60 dark:border-white/10 bg-white/90 dark:bg-[#101010]/90 px-4 py-2 shadow-lg backdrop-blur">
-              <span class="text-[11px] font-semibold tracking-[0.24em] uppercase text-gray-600 dark:text-gray-300">Matias</span>
+            <div class="absolute bottom-0 left-1/2 flex w-[calc(100%-1.5rem)] max-w-[240px] translate-y-1/2 -translate-x-1/2 items-center justify-center rounded-full border border-white/60 dark:border-white/10 bg-white/90 dark:bg-[#101010]/90 px-4 py-2 shadow-lg backdrop-blur sm:w-auto sm:min-w-[220px] sm:max-w-none sm:px-6 sm:py-2.5">
+              <span class="text-center text-[10px] font-semibold uppercase tracking-[0.12em] text-gray-600 dark:text-gray-300 sm:text-[11px] sm:tracking-[0.16em]">Matias Scacciante</span>
             </div>
           </div>
         </div>
