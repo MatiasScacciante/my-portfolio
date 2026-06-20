@@ -1,7 +1,6 @@
 export default {
   nav: {
     about: 'About',
-    experience: 'Experience',
     projects: 'Projects',
     skills: 'Skills',
     contact: 'Contact',
@@ -9,11 +8,11 @@ export default {
   },
 
   hero: {
-    available: 'Available for remote roles',
-    headline1: 'I Build Systems',
-    headline2: 'That Scale.',
-    headline3: 'And Products That Ship.',
-    subheadline: 'Semi-Senior Full-Stack Developer with 3+ years building enterprise software for banking, logistics & education. Based in Argentina — open to remote roles worldwide.',
+    available: 'Available for freelance projects',
+    headline1: 'I Build Products',
+    headline2: 'That Ship.',
+    headline3: 'From Idea to Paying Customers.',
+    subheadline: "Freelance Full-Stack Developer. I design, build, and deploy SaaS and e-commerce platforms end-to-end — no team required to deliver.",
     cta_primary: "Let's Work Together",
     cta_secondary: 'View My Work',
     scroll: '',
@@ -23,7 +22,7 @@ export default {
     label: 'About Me',
     headline: 'More Than a Coder.',
     subheadline: 'A Systems Thinker.',
-    bio_1: "Full-Stack Developer based in Mendoza, Argentina, with a background in Systems Engineering. 3+ years building production software for banking, logistics & education — plus two SaaS products of my own, zero to production.",
+    bio_1: "Freelance Full-Stack Developer based in Mendoza, Argentina, with a background in Systems Engineering. I design, build, and ship products of my own and for clients — from zero, no middlemen.",
     bio_2: "I don't just write code, I think in systems. I design APIs, optimize queries under load, and translate business requirements into architecture, with the same depth I bring to building my own products.",
     how_label: 'How I Work',
     how_1_title: 'Root Cause First',
@@ -31,22 +30,15 @@ export default {
     how_2_title: 'Business-Aware Engineering',
     how_2_desc: 'I connect technical decisions to business outcomes. Speed matters, but so does building the right thing.',
     how_3_title: 'Clear Communication',
-    how_3_desc: 'I work well with both technical and non-technical stakeholders. Requirements get clarified before code gets written.',
+    how_3_desc: 'I work directly with the client, no layers in between. Requirements get clarified before code gets written.',
   },
 
   experience: {
-    label: 'Experience',
-    headline: 'Built in Production.',
-    subheadline: 'Real Systems, Real Clients, Real Impact.',
+    label: 'Also Worked At',
     job1_company: 'Consensus Group',
     job1_role: 'Semi-Senior Full-Stack Developer',
     job1_period: '2023 — Present',
-    job1_location: 'Mendoza, Argentina (Hybrid)',
-    job1_desc: 'End-to-end development across enterprise projects for banking, logistics, and education clients. Responsible for architecture, implementation, optimization, and direct client collaboration.',
-    job1_b1: 'Optimized T-SQL stored procedures and indexes, reducing response times by up to 60% in high-load environments',
-    job1_b2: 'Designed and implemented RESTful APIs in .NET Core and NestJS consumed by multiple frontends and third-party integrations',
-    job1_b3: 'Led frontend development with Vue.js, building complex UIs connected to real-time data pipelines',
-    job1_b4: 'Worked directly with clients gathering requirements, and automated business processes with Power Automate (certified PL-500)',
+    job1_desc: 'Enterprise projects for banking, logistics, and education clients.',
   },
 
   projects: {
@@ -108,12 +100,12 @@ export default {
   contact: {
     label: 'Contact',
     headline: "Let's Build Something.",
-    subheadline: "I'm open to full-time remote roles, contract work, and interesting technical discussions. If you're building something ambitious, I'd love to hear about it.",
+    subheadline: "I'm available for freelance projects, product development, and technical consulting. If you have an idea or need a developer who delivers end-to-end, let's talk.",
     email_label: 'Email',
     github_label: 'GitHub',
     linkedin_label: 'LinkedIn',
     or: 'or reach me at',
-    availability: 'Currently available for new opportunities',
+    availability: 'Currently available for new projects',
   },
 
   footer: {

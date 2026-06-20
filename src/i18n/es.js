@@ -1,7 +1,6 @@
 export default {
   nav: {
     about: 'Sobre mí',
-    experience: 'Experiencia',
     projects: 'Proyectos',
     skills: 'Skills',
     contact: 'Contacto',
@@ -9,11 +8,11 @@ export default {
   },
 
   hero: {
-    available: 'Disponible para roles remotos',
-    headline1: 'Construyo Sistemas',
-    headline2: 'Que Escalan.',
-    headline3: 'Y Productos Que Llegan a Producción.',
-    subheadline: 'Full-Stack Developer Semi-Senior con 3+ años construyendo software empresarial para banca, logística y educación. Basado en Argentina — disponible para roles remotos internacionales.',
+    available: 'Disponible para proyectos freelance',
+    headline1: 'Construyo Productos',
+    headline2: 'Que Llegan a Producción.',
+    headline3: 'De la Idea al Cliente Pagando.',
+    subheadline: 'Full-Stack Developer freelance. Diseño, desarrollo y deployo SaaS y plataformas e-commerce de punta a punta — sin depender de un equipo para entregar.',
     cta_primary: 'Trabajemos Juntos',
     cta_secondary: 'Ver Mi Trabajo',
     scroll: '',
@@ -23,7 +22,7 @@ export default {
     label: 'Sobre mí',
     headline: 'Más Que un Desarrollador.',
     subheadline: 'Un Pensador de Sistemas.',
-    bio_1: 'Full-Stack Developer en Mendoza, Argentina, con formación en Ingeniería en Sistemas. 3+ años construyendo software de producción para banca, logística y educación — y dos productos SaaS propios, de cero a producción.',
+    bio_1: 'Full-Stack Developer freelance en Mendoza, Argentina, con formación en Ingeniería en Sistemas. Diseño, construyo y llevo a producción productos propios y de clientes — de cero, sin intermediarios.',
     bio_2: 'No solo escribo código: pienso en sistemas. Diseño APIs, optimizo queries críticas bajo carga y traduzco requerimientos de negocio en arquitectura, con la misma profundidad que le pongo a construir mis propios productos.',
     how_label: 'Cómo Trabajo',
     how_1_title: 'Causa Raíz Primero',
@@ -31,22 +30,15 @@ export default {
     how_2_title: 'Ingeniería con Visión de Negocio',
     how_2_desc: 'Conecto las decisiones técnicas con los resultados del negocio. La velocidad importa, pero también construir lo correcto.',
     how_3_title: 'Comunicación Clara',
-    how_3_desc: 'Trabajo bien con stakeholders técnicos y no técnicos. Los requerimientos se clarifican antes de escribir código.',
+    how_3_desc: 'Trabajo directo con el cliente, sin capas intermedias. Los requerimientos se clarifican antes de escribir código.',
   },
 
   experience: {
-    label: 'Experiencia',
-    headline: 'Construido en Producción.',
-    subheadline: 'Sistemas Reales, Clientes Reales, Impacto Real.',
+    label: 'También Trabajé En',
     job1_company: 'Consensus Group',
     job1_role: 'Full-Stack Developer Semi-Senior',
     job1_period: '2023 — Presente',
-    job1_location: 'Mendoza, Argentina (Híbrido)',
-    job1_desc: 'Desarrollo end-to-end en proyectos empresariales para clientes de banca, logística y educación. Responsable de arquitectura, implementación, optimización y colaboración directa con clientes.',
-    job1_b1: 'Optimicé stored procedures e índices en T-SQL, reduciendo tiempos de respuesta hasta un 60% en entornos de alta carga',
-    job1_b2: 'Diseñé e implementé APIs RESTful en .NET Core y NestJS consumidas por múltiples frontends e integraciones de terceros',
-    job1_b3: 'Lideré el desarrollo frontend con Vue.js, construyendo UIs complejas conectadas a pipelines de datos en tiempo real',
-    job1_b4: 'Trabajé directamente con clientes relevando requerimientos y automaticé procesos de negocio con Power Automate (certificado PL-500)',
+    job1_desc: 'Proyectos empresariales para clientes de banca, logística y educación.',
   },
 
   projects: {
@@ -108,12 +100,12 @@ export default {
   contact: {
     label: 'Contacto',
     headline: 'Construyamos Algo.',
-    subheadline: 'Estoy disponible para roles remotos full-time, proyectos por contrato y discusiones técnicas interesantes. Si estás construyendo algo ambicioso, me encantaría escucharlo.',
+    subheadline: 'Estoy disponible para proyectos freelance, desarrollo de productos y consultoría técnica. Si tenés una idea o necesitás un developer que entregue de punta a punta, hablemos.',
     email_label: 'Email',
     github_label: 'GitHub',
     linkedin_label: 'LinkedIn',
     or: 'o escribime a',
-    availability: 'Disponible para nuevas oportunidades',
+    availability: 'Disponible para nuevos proyectos',
   },
 
   footer: {

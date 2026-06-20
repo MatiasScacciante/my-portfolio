@@ -75,7 +75,6 @@ const scrolled = ref(false)
 
 const navItems = [
   { key: 'about' },
-  { key: 'experience' },
   { key: 'projects' },
   { key: 'skills' },
   { key: 'contact' },
