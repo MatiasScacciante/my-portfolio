@@ -23,9 +23,6 @@
           <p class="text-[17px] leading-relaxed text-gray-600 dark:text-gray-300">
             {{ t('about.bio_2') }}
           </p>
-          <p class="text-[17px] leading-relaxed text-gray-600 dark:text-gray-300">
-            {{ t('about.bio_3') }}
-          </p>
 
           <!-- Stats -->
           <div class="grid grid-cols-3 gap-4 pt-6 border-t border-gray-200 dark:border-white/5">
@@ -73,5 +70,5 @@
 <script setup>
 import { useI18n } from 'vue-i18n'
 const { t } = useI18n()
-const howItems = [1, 2, 3, 4]
+const howItems = [1, 2, 3]
 </script>

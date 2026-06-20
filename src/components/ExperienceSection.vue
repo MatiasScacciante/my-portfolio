@@ -48,7 +48,7 @@
             <!-- Impact bullets -->
             <div class="grid md:grid-cols-2 gap-3">
               <div
-                v-for="i in 6"
+                v-for="i in 4"
                 :key="i"
                 class="flex items-start gap-3 p-4 rounded-xl bg-gray-50 dark:bg-white/[0.03] border border-gray-100 dark:border-white/5"
               >
